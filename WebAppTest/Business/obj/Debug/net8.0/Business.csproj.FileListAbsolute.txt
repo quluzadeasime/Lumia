@@ -1,0 +1,17 @@
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Core.dll
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Data.dll
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Second\Desktop\WebApp\WebAppTest\Business\obj\Debug\net8.0\ref\Business.dll
